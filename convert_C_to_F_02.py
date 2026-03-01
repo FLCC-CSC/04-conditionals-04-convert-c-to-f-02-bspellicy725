@@ -17,8 +17,8 @@
 print("===== Temperature Converter =====")
 print()
 
-print("1. Convert from Celsius to Fahrenheit")
-print("2. Convert from Fahrenheit to Celsius")
+print("  1. Convert from Celsius to Fahrenheit")
+print("  2. Convert from Fahrenheit to Celsius")
 print()
 
 choice = input("Please choose from the above menu: ")
