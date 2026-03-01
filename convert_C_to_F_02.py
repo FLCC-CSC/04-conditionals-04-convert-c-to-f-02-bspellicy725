@@ -14,7 +14,6 @@
 
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
-
 print("===== Temperature Converter =====")
 print()
 
@@ -29,13 +28,10 @@ print()
 
 if choice == "1":
     result = temp * 9/5 + 32
-    print(str(temp) + " degrees Celsius is " + str(result) + "degrees Fahrenheit.")
+    print(f"{temp} degrees Celsius is {result} degrees Fahrenheit.")
 else:
-    result + (temp - 32) * 5/9
-    print(str(temp) + " degrees Fahrenheit is " + str(result) = " degrees Celsius.")
-
-
-
+    result = (temp - 32) * 5/9
+    print(f"{temp} degrees Fahrenheit is {result} degrees Celsius.")
 
 
 
