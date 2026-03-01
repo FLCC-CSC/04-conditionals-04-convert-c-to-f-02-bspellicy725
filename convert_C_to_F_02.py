@@ -1,8 +1,8 @@
 # FILE NAME - convert_C_to_F_02.py
 
-# NAME: Bridget Spellicy
-# DATE: 03/01/2026
-# BRIEF DESCRIPTION:  This program converts temperatures between Celsius and Fahrenheit based on the user's choice.
+# NAME:Bridget Spellicy
+# DATE:03/01/2026
+# BRIEF DESCRIPTION:This program converts temperatures between Celsius and Fahrenheit based on the user's choice.
 
 
 
@@ -32,7 +32,7 @@ if choice == "1":
     print(str"(temp) + " degrees Celsius is " + str(result) + "degrees Fahrenheit.")
 else:
     result = (temp - 32) * 5/9
-    print(str(temp) + " degrees Fahrenheit is " + str(result) = " degrees Celsius.")
+    print(str"(temp) + " degrees Fahrenheit is " + str(result) = " degrees Celsius.")
 
 
 
