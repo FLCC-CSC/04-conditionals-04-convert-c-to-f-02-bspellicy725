@@ -16,16 +16,16 @@
 ########## ENTER YER CODE BELOW THIS LINE ##########
 
 print("===== Temperature Converter =====")
-print("")
+print()
 
-print(" 1. Convert from Celsius to Fahrenheit")
-print(" 2. Convert from Fahrenheit to Celsius")
-print("")
+print("1. Convert from Celsius to Fahrenheit")
+print("2. Convert from Fahrenheit to Celsius")
+print()
 
 choice = input("Please choose from the above menu: ")
 temp = float(input("Enter a temperature to convert: "))
 
-print("")
+print()
 
 if choice == "1":
     result = temp * 9/5 + 32
