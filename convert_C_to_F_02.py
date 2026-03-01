@@ -14,7 +14,7 @@
 
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
-print("===== Temperature Converter =====")
+print("===== Temperature Converter ======")
 print()
 
 print("1. Convert from Celsius to Fahrenheit")
