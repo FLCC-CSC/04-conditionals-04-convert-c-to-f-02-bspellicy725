@@ -29,10 +29,10 @@ print()
 
 if choice == "1":
     result = temperature * 9/5 + 32
-    print(f"{temperature} degreees Celsius is {result} degrees Fahrenheit. ")
+    print(f"{temperature} degreees Celsius is {result} degrees Fahrenheit.")
 else:
     result = (temperature -32) * 5/9
-    print(f"{temperature} degrees Fahrenheit is {result} degrees Celsius. ")
+    print(f"{temperature} degrees Fahrenheit is {result} degrees Celsius.")
 
 
 
