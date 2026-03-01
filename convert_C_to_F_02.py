@@ -29,10 +29,10 @@ print()
 
 if choice == "1":
     result = temp * 9/5 + 32
-    print(str"(temp) + " degrees Celsius is " + str(result) + "degrees Fahrenheit.")
+    print(str(temp) + " degrees Celsius is " + str(result) + "degrees Fahrenheit.")
 else:
-    result = (temp - 32) * 5/9
-    print(str"(temp) + " degrees Fahrenheit is " + str(result) = " degrees Celsius.")
+    result + (temp - 32) * 5/9
+    print(str(temp) + " degrees Fahrenheit is " + str(result) = " degrees Celsius.")
 
 
 
